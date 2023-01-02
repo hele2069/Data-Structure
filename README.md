@@ -1,2 +1,2 @@
-# Data-Structure-Python
-### Self-taught some data structures in leisure time
+## Overview
+Self-taught some data structure implementations in leisure time
